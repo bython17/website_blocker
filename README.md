@@ -3,6 +3,10 @@
 This program allows you to block and unblock websites from the command line by modifying the hosts file.
 <br>
 ## Installation
+
+**You can use the program by downloading a binary from the [releases](https://github.com/bython17/website_blocker/releases/tag/0.1.0)**. For manual builds use the following method.
+<br>
+<br>
 **NOTE**: Make sure to have the rust compiler and `cargo` installed.
 
 - Clone the repository and `cd` into it
